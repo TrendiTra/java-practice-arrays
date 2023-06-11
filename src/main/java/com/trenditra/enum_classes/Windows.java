@@ -2,10 +2,10 @@ package com.trenditra.enum_classes;
 
 public enum Windows {
 
-    OPEN("Открыть окно"),
-    CLOSE("Закрыть окно"),
-    MAX_SIZE("Развернуть на весь экран"),
-    MIN_SIZE("Свернуть окно");
+    OPEN("Пластиковое"),
+    CLOSE("Деревянное"),
+    MAX_SIZE("Витражное"),
+    MIN_SIZE("Другое");
 
     private String windowName;
 
