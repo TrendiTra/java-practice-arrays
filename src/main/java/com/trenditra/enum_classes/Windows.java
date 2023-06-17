@@ -2,10 +2,10 @@ package com.trenditra.enum_classes;
 
 public enum Windows {
 
-    OPEN("Пластиковое"),
-    CLOSE("Деревянное"),
-    MAX_SIZE("Витражное"),
-    MIN_SIZE("Другое");
+    TYPE1("Пластиковое"),
+    TYPE2("Деревянное"),
+    TYPE3("Витражное"),
+    TYPE4("Другое");
 
     private String windowName;
 
